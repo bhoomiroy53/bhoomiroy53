@@ -63,6 +63,5 @@ I'm looking for an **entry-level Data Analyst or Data Science** opportunity. Fee
  
 📧 bhoomiroy21@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/bhoomi-roy-aa3a1b316)
  
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
  
